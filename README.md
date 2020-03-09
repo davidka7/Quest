@@ -1,25 +1,8 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+Tim is Wierd tim goosive and sam poogooniy are a wierd pair
+\lik eehheh
+danik is kosta. hitler
+and george stalin
+and mark terroist
 * ...
-# livingkidscamp
+
