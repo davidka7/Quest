@@ -25,6 +25,7 @@ div {
 animation-name: pics;
 animation-duration: 6s;
 animation-iteration-count: infinite;
+     background-size: cover;
 
 }
 
