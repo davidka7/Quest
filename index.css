@@ -28,6 +28,7 @@ body {
     background-size: cover;
 }
 h3 {
+    display:none;
 background-color: #e1b382;
   width: 800px;
   border: 25px solid #c89666;
