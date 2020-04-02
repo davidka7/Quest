@@ -1,5 +1,5 @@
 
-#lol {
+h3 {
 background-color: black;
   width: 800px;
   border: 25px solid green;
@@ -8,6 +8,7 @@ background-color: black;
   image-rendering: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
+  color: white;
 }
 
 
@@ -41,6 +42,4 @@ background-color: black;
 }
 */
 
-h3 {
- color: yellow; 
-}
+
