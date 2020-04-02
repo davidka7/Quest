@@ -1,1 +1,11 @@
 
+div {
+  image-background: url("")
+  width: 400px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
