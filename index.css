@@ -9,6 +9,24 @@ div {
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 }
+@keyframes pics
+{ 0% { content: url(1.png); }
+12.5% { content: url(2.png); }
+25% { content: url(3.png); }
+37.5% { content: url(4.png); }
+50% { content: url(5.png);}
+  { 60% { content: url(6.png); }
+70% { content: url(7.png); }
+80% { content: url(8.png); }
+90% { content: url(9.png); }
+100% { content: url(10.png);}
+}
+  .bar {
+animation-name: pics;
+animation-duration: 6s;
+animation-iteration-count: infinite;
+
+}
 
 h3 {
  color: white; 
