@@ -17,6 +17,14 @@ window.onclick = function(event) {
     }
   }
 }
+function funct() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
 //window.onload = function() {
 
    // function FauxGif(element, frames, speed) {
