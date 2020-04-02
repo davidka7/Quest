@@ -27,7 +27,7 @@ body {
     background-size: cover;
 }
 h3 {
-background-color: black;
+background-color: #12343b;
   width: 800px;
   border: 25px solid green;
   padding: 50px;
@@ -35,7 +35,7 @@ background-color: black;
   image-rendering: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
-  color: green;
+  color: white;
 }
 
 
