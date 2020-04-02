@@ -14,7 +14,7 @@
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
     margin: auto;
-   
+     background-image: url(1.PNG);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -23,15 +23,15 @@
     animation: giffy 0.5s infinite linear;
 }
 @keyframes giffy
-{ 0% { background-image: url(1.PNG); }
-12.5% { background-image: url(2.PNG); }
-25% { background-image: url(3.PNG); }
-37.5% { background-image: url(4.PNG); }
-50% { background-image: url(5.PNG);}
-  { 60% { background-image: url(6.PNG); }
-70% { background-image: url(7.PNG); }
-80% { background-image: url(8.PNG); }
-90% { background-image: url(9.PNG); }
+
+0% { background-image: url(2.PNG); }
+12% { background-image: url(3.PNG); }
+24% { background-image: url(4.PNG); }
+36% { background-image: url(5.PNG);}
+  { 48% { background-image: url(6.PNG); }
+60% { background-image: url(7.PNG); }
+76% { background-image: url(8.PNG); }
+88% { background-image: url(9.PNG); }
 100% { background-image: url(10.PNG);}
 }
   #faux-gif:hover {
