@@ -9,17 +9,33 @@ div {
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 }
+
+#faux-gif {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    margin: auto;
+    background-image: url(https://i.imgur.com/E2ee6fI.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    animation: giffy 0.5s infinite linear;
+}
 @keyframes pics
-{ 0% { content: url(1.PNG); }
-12.5% { content: url(2.PNG); }
-25% { content: url(3.PNG); }
-37.5% { content: url(4.PNG); }
-50% { content: url(5.PNG);}
-  { 60% { content: url(6.PNG); }
-70% { content: url(7.PNG); }
-80% { content: url(8.PNG); }
-90% { content: url(9.PNG); }
-100% { content: url(10.PNG);}
+{ 0% { background-image: url(1.PNG); }
+12.5% { background-image: url(2.PNG); }
+25% { background-image: url(3.PNG); }
+37.5% { background-image: url(4.PNG); }
+50% { background-image: url(5.PNG);}
+  { 60% { background-image: url(6.PNG); }
+70% { background-image: url(7.PNG); }
+80% { background-image: url(8.PNG); }
+90% { background-image: url(9.PNG); }
+100% { background-image: url(10.PNG);}
+}
+  #faux-gif:hover {
+    animation-play-state:paused;
 }
   .bar {
 animation-name: pics;
