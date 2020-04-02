@@ -1,5 +1,5 @@
 
-div {
+#lol {
 background-color: black;
   width: 800px;
   border: 25px solid green;
@@ -9,6 +9,8 @@ background-color: black;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 }
+
+
 
 /*#faux-gif {
     position: absolute;
