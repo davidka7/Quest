@@ -9,3 +9,7 @@ div {
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 }
+
+h3 {
+ color: white; 
+}
