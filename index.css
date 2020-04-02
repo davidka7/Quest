@@ -38,9 +38,9 @@ background-color: #e1b382;
   image-rendering: pixelated;
   color: white;
 }
-/*#myDIV {display: none;*/
+#myDIV {
 display: none;
-
+}
 
 /*#faux-gif {
     position: absolute;
