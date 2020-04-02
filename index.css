@@ -10,16 +10,16 @@ div {
   image-rendering: pixelated;
 }
 @keyframes pics
-{ 0% { content: url(1.png); }
-12.5% { content: url(2.png); }
-25% { content: url(3.png); }
-37.5% { content: url(4.png); }
-50% { content: url(5.png);}
-  { 60% { content: url(6.png); }
-70% { content: url(7.png); }
-80% { content: url(8.png); }
-90% { content: url(9.png); }
-100% { content: url(10.png);}
+{ 0% { content: url(1.PNG); }
+12.5% { content: url(2.PNG); }
+25% { content: url(3.PNG); }
+37.5% { content: url(4.PNG); }
+50% { content: url(5.PNG);}
+  { 60% { content: url(6.PNG); }
+70% { content: url(7.PNG); }
+80% { content: url(8.PNG); }
+90% { content: url(9.PNG); }
+100% { content: url(10.PNG);}
 }
   .bar {
 animation-name: pics;
