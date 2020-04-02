@@ -1,4 +1,4 @@
-html {
+/*html {
 background-image:url('123.jpg');
 background-position: center center;
 -webkit-background-size: cover;
@@ -12,6 +12,19 @@ overflow: hidden;
 body {           
 height:100%;
 overflow: scroll;
+}*/
+html, body {
+    height: 100%;
+}
+html {
+    overflow-y: hidden;
+}
+body {
+    overflow-y: scroll;
+}
+body {
+    background: url("123.jpg") no-repeat center fixed;
+    background-size: cover;
 }
 h3 {
 background-color: black;
