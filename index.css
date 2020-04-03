@@ -1,6 +1,7 @@
 #imgPreview { background-image: url("123.jpg");
 margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+width: 80%;}
 h1 {
  color: white;
     font: 50px;
