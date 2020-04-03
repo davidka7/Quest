@@ -26,6 +26,8 @@ function funct() {
     x.style.display = "none";
   }
 }
+function preview(arg1){
+ document.getElementById("imgPreview").src= arg1 +".jpg"
 	
 //window.onload = function() {
 
