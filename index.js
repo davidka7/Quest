@@ -28,7 +28,7 @@ function funct() {
 }
 function preview(arg1){
  document.getElementById("imgPreview").src= arg1 +".jpg"
-	
+}
 //window.onload = function() {
 
    // function FauxGif(element, frames, speed) {
