@@ -27,7 +27,7 @@ function funct() {
   }
 }
 function preview(arg1){
- document.getElementById("imgPreview")= document.getElementById(arg1)
+ document.getElementById("imgPreview").src = arg1
 }
 //window.onload = function() {
 
