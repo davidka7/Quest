@@ -48,7 +48,7 @@ display: none;
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
     margin: auto;
-     background-image: url(1.PNG);
+     background-image: url(IMG-4482.PNG);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -58,15 +58,13 @@ display: none;
 }
 @keyframes giffy
 {
-0% { background-image: url(2.PNG); }
-12% { background-image: url(3.PNG); }
-24% { background-image: url(4.PNG); }
-36% { background-image: url(5.PNG);}
-   48% { background-image: url(6.PNG); }
-60% { background-image: url(7.PNG); }
-76% { background-image: url(8.PNG); }
-88% { background-image: url(9.PNG); }
-100% { background-image: url(10.PNG);}
+0% { background-image: url(IMG-4483.PNG); }
+17% { background-image: url(IMG-4484.PNG); }
+35% { background-image: url(IMG-4485.PNG); }
+51% { background-image: url(IMG-4486.PNG);}
+   68% { background-image: url(IMG-4487.PNG); }
+84% { background-image: url(IMG-4488.PNG); }
+100% { background-image: url(IMG-4489.PNG); }
 }
   /*#faux-gif:hover {
     animation-play-state:paused;
