@@ -1,12 +1,8 @@
 
-#imgPreview { queen.jpg");}
-	.container {visibility: hidden;
-    display:none;}
+#imgPreview { background-image: url("queen.jpg");}
 	
-h1 {
- color: white;
-    font: 50px;
-}
+	
+
 /*html {
 background-image:url('123.jpg');
 background-position: center center;
