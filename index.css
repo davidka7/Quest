@@ -54,7 +54,7 @@ display: none;
     background-position: center;
     width: 800px;
     height: 1000px;
-    animation: giffy 0.5s infinite linear;
+    animation: giffy 0.2s infinite linear;
 }
 @keyframes giffy
 {
