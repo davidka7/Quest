@@ -68,9 +68,9 @@ display: none;
 88% { background-image: url(9.PNG); }
 100% { background-image: url(10.PNG);}
 }
-  #faux-gif:hover {
+  /*#faux-gif:hover {
     animation-play-state:paused;
-}
+}*/
 
 
 
