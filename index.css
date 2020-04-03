@@ -39,8 +39,8 @@ body {
 	
 }
 h3 {
-    visibility: hidden;
-    display:none;
+    /*visibility: hidden;
+    display:none;*/
 background-color: #e1b382;
   /*width: 800px;*/
 	text-align: center;
