@@ -56,6 +56,30 @@ function preview7(arg1){
 function preview8(arg1){
  document.getElementById("imgPreview").src = arg1
 }
+function preview8(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview8(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview9(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview10(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview11(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview12(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview13(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview14(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
 //window.onload = function() {
 
    // function FauxGif(element, frames, speed) {
