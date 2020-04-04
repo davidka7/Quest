@@ -80,6 +80,12 @@ function preview13(arg1){
 function preview14(arg1){
  document.getElementById("imgPreview").src = arg1
 }
+function preview15(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview16(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
 //window.onload = function() {
 
    // function FauxGif(element, frames, speed) {
