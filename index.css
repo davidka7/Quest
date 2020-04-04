@@ -41,6 +41,20 @@ body {
     background-size: cover;
 	
 }
+h1 {
+ /*visibility: hidden;
+    display:none;*/
+background-color: #e1b382;
+	text-align: center;
+	font: 100px;
+  border: 25px solid #c89666;
+  padding: 50px;
+  margin: 20px;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+  color: white;
+}
 h3 {
  /*visibility: hidden;
     display:none;*/
