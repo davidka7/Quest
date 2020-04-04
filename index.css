@@ -41,13 +41,12 @@ body {
     background-size: cover;
 	
 }
-h3 {
+h1 {
  /*visibility: hidden;
     display:none;*/
 background-color: #e1b382;
-  /*width: 800px;*/
 	text-align: center;
-	
+	font: 100px;
   border: 25px solid #c89666;
   padding: 50px;
   margin: 20px;
