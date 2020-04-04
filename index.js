@@ -26,66 +26,50 @@ function funct() {
     x.style.display = "none";
   }
 }
-function preview(arg1){
- document.getElementById("imgPreview").src = arg1
-}
-function preview(arg1){
- document.getElementById("imgPreview").src = arg1
-}
+
 function preview1(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p1").src = arg1
 }
 function preview2(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p2").src = arg1
 }
 function preview3(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p3").src = arg1
 }
 function preview4(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p4").src = arg1
 }
 function preview5(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p5").src = arg1
 }
 function preview6(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p6").src = arg1
 }
 function preview7(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p7").src = arg1
 }
 function preview8(arg1){
- document.getElementById("imgPreview").src = arg1
-}
-function preview8(arg1){
- document.getElementById("imgPreview").src = arg1
-}
-function preview8(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p8").src = arg1
 }
 function preview9(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p9").src = arg1
 }
 function preview10(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p10").src = arg1
 }
 function preview11(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p11").src = arg1
 }
 function preview12(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p12").src = arg1
 }
 function preview13(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p13").src = arg1
 }
 function preview14(arg1){
- document.getElementById("imgPreview").src = arg1
+ document.getElementById("p14").src = arg1
 }
-function preview15(arg1){
- document.getElementById("imgPreview").src = arg1
-}
-function preview16(arg1){
- document.getElementById("imgPreview").src = arg1
-}
+
 //window.onload = function() {
 
    // function FauxGif(element, frames, speed) {
