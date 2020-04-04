@@ -29,6 +29,33 @@ function funct() {
 function preview(arg1){
  document.getElementById("imgPreview").src = arg1
 }
+function preview(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview1(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview2(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview3(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview4(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview5(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview6(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview7(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
+function preview8(arg1){
+ document.getElementById("imgPreview").src = arg1
+}
 //window.onload = function() {
 
    // function FauxGif(element, frames, speed) {
