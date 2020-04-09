@@ -28,13 +28,14 @@ overflow: scroll;
 
 html, body {
     height: 100%;
+	visibility: hidden;
+    display:none;
 }
 html {
     overflow-y: hidden;
 }
 body {
-	/*visibility: hidden;
-    display:none;*/
+	
     overflow-y: scroll;
 	
 }
@@ -46,7 +47,7 @@ body {
 }
 h1 {
  /*visibility: hidden;
-    display:none;*/
+    display:none;*/\\
 background-color: #e1b382;
 	text-align: center;
 	font: 100px;
